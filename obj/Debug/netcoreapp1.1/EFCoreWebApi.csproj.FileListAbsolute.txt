@@ -7,3 +7,12 @@ C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\obj\Debug\netcoreapp1.
 C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\obj\Debug\netcoreapp1.1\EFCoreWebApi.AssemblyInfo.cs
 C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\obj\Debug\netcoreapp1.1\EFCoreWebApi.dll
 C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\obj\Debug\netcoreapp1.1\EFCoreWebApi.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\bin\Debug\netcoreapp1.1\EFCoreWebApi.deps.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\bin\Debug\netcoreapp1.1\EFCoreWebApi.runtimeconfig.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\bin\Debug\netcoreapp1.1\EFCoreWebApi.runtimeconfig.dev.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\bin\Debug\netcoreapp1.1\EFCoreWebApi.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\bin\Debug\netcoreapp1.1\EFCoreWebApi.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\obj\Debug\netcoreapp1.1\EFCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\obj\Debug\netcoreapp1.1\EFCoreWebApi.AssemblyInfo.cs
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\obj\Debug\netcoreapp1.1\EFCoreWebApi.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi\CoreWebApi_with_EF\obj\Debug\netcoreapp1.1\EFCoreWebApi.pdb

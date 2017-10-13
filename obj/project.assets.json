@@ -10360,11 +10360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\EFCoreWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\CoreWebApi_with_EF\\EFCoreWebApi.csproj",
       "projectName": "EFCoreWebApi",
-      "projectPath": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\EFCoreWebApi.csproj",
+      "projectPath": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\CoreWebApi_with_EF\\EFCoreWebApi.csproj",
       "packagesPath": "C:\\Users\\arnared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\obj\\",
+      "outputPath": "C:\\Users\\arnared\\Documents\\WebApi Edx Course\\EFCoreWebApi\\CoreWebApi_with_EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arnared\\AppData\\Roaming\\NuGet\\NuGet.Config"
